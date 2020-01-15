@@ -1,6 +1,6 @@
 # Effective Python
 
-`Brett Slatkin`
+Author: Brett Slatkin
 
 ## 第 1 章：用 Pythonic 方式来思考
 
