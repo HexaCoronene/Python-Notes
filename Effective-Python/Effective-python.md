@@ -1,6 +1,8 @@
 # Effective Python
 
-Author: Brett Slatkin
+`__author__ = Brett Slatkin`
+
+---
 
 ## 第 1 章：用 Pythonic 方式来思考
 
@@ -30,6 +32,8 @@ Author: Brett Slatkin
 
 ### 第 13 条：合理利用 try/except/else/finally 结构中的每个代码块
 
+---
+
 ## 第 2 章：函数
 
 ### 第 14 条：尽量用异常来表示特殊情况，而不要返回 None
@@ -48,6 +52,8 @@ Author: Brett Slatkin
 
 ### 第 21 条：用只能以关键字指定的参数来确保代码清晰
 
+---
+
 ## 第 3 章：类与继承
 
 ### 第 22 条：尽量用辅助类来维护程序的状态，而不要用字典和元组
@@ -63,6 +69,8 @@ Author: Brett Slatkin
 ### 第 27 条：多用 public 属性，少用 private 属性
 
 ### 第 28 条：继承 collections.abc 以实现自定义的容器类型
+
+---
 
 ## 第 4 章：元类及属性
 
@@ -80,6 +88,8 @@ Author: Brett Slatkin
 
 ### 第 35 条：用元类来注解类的属性
 
+---
+
 ## 第 5 章：并发及并行
 
 ### 第 36 条：用 subprocess 模块来管理子进程
@@ -93,6 +103,8 @@ Author: Brett Slatkin
 ### 第 40 条：考虑用协程来并发地运行多个函数
 
 ### 第 41 条：考虑用 concurrent.futures 来实现真正的平行计算
+
+---
 
 ## 第 6 章：内置模块
 
@@ -110,6 +122,8 @@ Author: Brett Slatkin
 
 ### 第 48 条：学会安装由 Python 开发者社区所构建的模块
 
+---
+
 ## 第 7 章：协作开发
 
 ### 第 49 条：为每个函数、类和模块编写文档字符串
@@ -121,6 +135,8 @@ Author: Brett Slatkin
 ### 第 52 条：用适当的方式打破循环依赖关系
 
 ### 第 53 条：用虚拟环境隔离项目，并重建其依赖关系
+
+---
 
 ## 第 8 章：部署
 
