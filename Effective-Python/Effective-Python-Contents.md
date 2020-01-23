@@ -6,9 +6,9 @@
 
 ## 第 1 章：用 Pythonic 方式来思考
 
-### 第 1 条：[确认自己所用的 Python 版本]()
+### 第 1 条：[确认自己所用的 Python 版本](用Pythonic方式来思考/第1条：确认自己所用的Python版本.md)
 
-### 第 2 条：[遵循 PEP8 风格指南]()
+### 第 2 条：[遵循 PEP8 风格指南](用Pythonic方式来思考/第2条：遵循 PEP8 风格指南.md)
 
 ### 第 3 条：了解 bytes、str 与 unicode 的区别
 
