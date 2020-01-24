@@ -10,7 +10,7 @@
 
 ### 第 2 条：[遵循 PEP8 风格指南](用Pythonic方式来思考/第2条：遵循 PEP8 风格指南.md)
 
-### 第 3 条：了解 bytes、str 与 unicode 的区别
+### 第 3 条：[了解 bytes、str 与 unicode 的区别](用Pythonic方式来思考\第3条：了解bytes、str与unicode的区别.md)
 
 ### 第 4 条：用辅助函数来取代复杂的表达式
 
@@ -108,7 +108,7 @@
 
 ## 第 6 章：内置模块
 
-### 第 42 条：用 functools.wraps 定义函数装饰器
+### 第 42 条：[用 functools.wraps 定义函数装饰器](内置模块\第42条：用functools.wraps定义函数修饰器.md)
 
 ### 第 43 条：考虑以 contextlib 和 with 语句来改写可复用的 try/finally 代码
 
