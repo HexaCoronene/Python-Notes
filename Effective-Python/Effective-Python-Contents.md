@@ -10,13 +10,13 @@
 
 ### 第 2 条：[遵循 PEP8 风格指南](用Pythonic方式来思考/第2条：遵循 PEP8 风格指南.md)
 
-### 第 3 条：[了解 bytes、str 与 unicode 的区别](用Pythonic方式来思考\第3条：了解bytes、str与unicode的区别.md)
+### 第 3 条：[了解 bytes、str 与 unicode 的区别](用Pythonic方式来思考/第3条：了解bytes、str与unicode的区别.md)
 
-### 第 4 条：用辅助函数来取代复杂的表达式
+### 第 4 条：[用辅助函数来取代复杂的表达式](用Pythonic方式来思考/第4条：用辅助函数来取代复杂的表达式.md)
 
-### 第 5 条：了解切割序列的方法
+### 第 5 条：[了解切割序列的方法](用Pythonic方式来思考/第5条：了解切割序列的方法.md)
 
-### 第 6 条：在单次切片操作中，不要同时指定 start、end 和 stride
+### 第 6 条：[在单次切片操作中，不要同时指定 start、end 和 stride](用Pythonic方式来思考/第6条：在单次切片操作中，不要同时指定start、end和stride.md)
 
 ### 第 7 条：用列表推导来取代 map 和 filter
 
